@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" type="template">
+	<name>The Hague Street Art</name>
+	<creationDate>2016-02-15</creationDate>
+	<author>Christiaan Färber en Adam Kramer</author>
+	<authorEmail>webmaster@studiomod.us</authorEmail>
+	<authorUrl>http://www.studiomod.us</authorUrl>
+	<copyright>Studio Modus 2016</copyright>
+	<license>GNU/GPL</license>
+	<version>1.0</version>
+	<description>The Hague Street Art theme design by Walewijn den Boer en ontwikkeld door Studio Modus</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<folder>images</folder>
+		<folder>css</folder>
+	</files>
+	<positions>
+		<position>breadcrumb</position>
+		<position>left</position>
+		<position>right</position>
+		<position>top</position>
+		<position>user1</position>
+		<position>user2</position>
+		<position>user3</position>
+		<position>user4</position>
+		<position>footer</position>
+	</positions>
+</extension>
